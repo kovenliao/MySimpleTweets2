@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Simple Tweets</string>
+    <string name="login_label">Connect To Twitter</string>
+    <string name="title_activity_timeline">Home Timeline</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="compose_post">Post</string>
+    <string name="title_activity_compose">ComposeActivity</string>
+    <string name="title_activity_profile">Profile</string>
+
+</resources>
